@@ -1,5 +1,3 @@
-# Research Concept & Direction
-
 ## Overview
 
 This research explores the potential application of ferrofluids—colloidal suspensions of magnetic nanoparticles—for the treatment of chlorosis in wheat and barley crops. Chlorosis, characterized by the yellowing of leaves due to iron deficiency or impaired chlorophyll synthesis, significantly impacts yield and crop health. Conventional iron supplementation methods often face limitations in bioavailability and uptake efficiency. The objective of this study is to assess whether ferrofluids can improve iron delivery to plants, enhance chlorophyll production, and mitigate chlorosis symptoms in a sustainable and scalable manner.
